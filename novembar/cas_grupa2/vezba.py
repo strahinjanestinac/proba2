@@ -1,0 +1,1 @@
+print("cao iz mog fajla")
