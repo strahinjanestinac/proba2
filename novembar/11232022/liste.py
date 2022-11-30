@@ -54,8 +54,8 @@ brojevi=[1,5,6,7,9,10]
 parni_brojevi=[]
 neparni_brojevi=[]
 for broj in brojevi:
-    if broj % 2 =0
-    parni_brojevi.append(broj)
+    if broj %2 ==0:
+        parni_brojevi.append(broj)
     else:
         neparni_brojevi.append(brojevi)
 print(parni_brojevi,neparni_brojevi)
